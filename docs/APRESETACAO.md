@@ -8,7 +8,7 @@
 **Título da Seção:** Nossa História
 
 Texto:
-Bem-vindo à Mercearia São José! Há mais de uma década, somos parte do seu bairro, oferecendo produtos de qualidade com o atendimento acolhedor que só um negócio familiar possui. Nascemos da paixão por servir bem e facilitar a rotina da nossa comunidade, unindo a conveniência de um mercado completo com o sabor inconfundível da nossa cozinha artesanal. Para nós, cada cliente que entra pela porta é um vizinho e um amigo. Nosso compromisso é garantir que sua despensa esteja sempre cheia e o seu almoço de domingo seja inesquecível.
+Bem-vindo à Mercearia São José! Há mais de seis décadas, somos parte do seu bairro, oferecendo produtos de qualidade com o atendimento acolhedor que só um negócio familiar possui. Nascemos da paixão por servir bem e facilitar a rotina da nossa comunidade, unindo a conveniência de um mercado completo com o sabor inconfundível da nossa cozinha artesanal. Para nós, cada cliente que entra pela porta é um vizinho e um amigo. Nosso compromisso é garantir que sua despensa esteja sempre cheia e o seu almoço de domingo seja inesquecível.
 
 ---
 # O Que Vendemos (Variedade de Produtos)
